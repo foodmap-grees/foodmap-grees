@@ -9,7 +9,7 @@
   <body>
     <div class="object-center">
       <img src="FoodMap.png" alt="FoodMap" width="263.75" height="224.625">
-      <h3> Para saber mais sobre esse projeto, assista nosso pitch:</h3>
+      <h3> Para saber mais sobre esse projeto assista nosso pitch:</h3>
       <iframe width="450" height="300" src="https://www.youtube.com/embed/9Hh9YAS3nlI" title="Pitch FoodMap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </body>
