@@ -17,10 +17,9 @@
 </html>
 
 ---
+## [📧 Contato ](contato.md)
 
-### [📧 Contato ](contato.md)
-
-### Outros posts Relevantes: 
+## Outros posts Relevantes: 
 [⚙️ Como funciona?](Resumo.md) 
 
 [🚀 Página do FoodMap no Nasa Space Apps](https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-future-generations/teams/grees-1/project)
