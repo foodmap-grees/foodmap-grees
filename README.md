@@ -18,8 +18,8 @@
 
 ---
 ## 📧 Contato
-Envie-nos um e-mail: foodmap.grees@gmail.com
-## Outros posts Relevantes: 
+E-mail: foodmap.grees@gmail.com
+## Outros posts: 
 [⚙️ Como funciona?](Resumo.md) 
 
 [🚀 FoodMap no Nasa Space Apps](https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-future-generations/teams/grees-1/project)

@@ -1,2 +1,2 @@
-### Como funciona?
+### ⚙️ Como funciona?
 O projeto FoodMap utiliza diferentes bases de dados para caracterizar o cenário de produção agrícola no mundo, a fim de propor uma solução para a escassez de alimentos. Identifica áreas antropizadas no cenário de produção atual, cria um cenário ideal com base em critérios agronômicos e separa os locais para otimização da produção, definindo a adequação para uso com culturas perenes, anuais ou pastagens. A diferença é mapear o uso da terra, destacando as áreas não utilizados no planeta, para propor o uso produtivo sem aumentar o desmatamento e as queimadas, uma vez que o uso de áreas antropizadas promoverá uma produção eficiente e sustentável para a geração atual e futura.
