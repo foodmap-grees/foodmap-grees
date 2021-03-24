@@ -7,27 +7,24 @@
     </style>
   </head>
   <body>
-    <div class="object-center"> <!-- Block parent element -->
-        <img src="FoodMap.png" alt="FoodMap" width="300" height="250">
-        <h3> Quer conhecer o projeto FoodMap? Assista nosso Pitch </h3>
-        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=9Hh9YAS3nlI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="object-center">     
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/9Hh9YAS3nlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </body>
 </html>
 
 ---
 
+#### Quer conversar? [Entre em contato](contato.md)
 
-### Resumo
-O projeto FoodMap utiliza diferentes bases de dados para caracterizar o cenário de produção agrícola no mundo, a fim de propor uma solução para a escassez de alimentos. Identifica áreas antropizadas no cenário de produção atual, cria um cenário ideal com base em critérios agronômicos e separa os locais para otimização da produção, definindo a adequação para uso com culturas perenes, anuais ou pastagens. A diferença é mapear o uso da terra, destacando as áreas não utilizados no planeta, para propor o uso produtivo sem aumentar o desmatamento e as queimadas, uma vez que o uso de áreas antropizadas promoverá uma produção eficiente e sustentável para a geração atual e futura.
-
-### Para mais informações:
-[Resumo](Resumo.md)
-
-e-mail: foodmap.grees@gmail.com 
-    
+#### Outros posts Relevantes: 
+[Como funciona?](Resumo.md) 
 [Página do projeto no Nasa Space Apps](https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-future-generations/teams/grees-1/project)
-[Repositório:](https://github.com/foodmap-grees)
+[Repositório no GitHub:](https://github.com/foodmap-grees)
+
+
+
+
 
 
 
