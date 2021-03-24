@@ -19,7 +19,9 @@
 
 #### Outros posts Relevantes: 
 [Como funciona?](Resumo.md) 
+
 [Página do projeto no Nasa Space Apps](https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-future-generations/teams/grees-1/project)
+
 [Repositório no GitHub:](https://github.com/foodmap-grees)
 
 
