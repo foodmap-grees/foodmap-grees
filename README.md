@@ -24,4 +24,4 @@ E-mail: foodmap.grees@gmail.com
 
 [🚀 FoodMap no Nasa Space Apps](https://2020.spaceappschallenge.org/challenges/sustain/sustaining-our-planet-future-generations/teams/grees-1/project)
 
-[Repositório no GitHub:](https://github.com/foodmap-grees)
+[Repositório no GitHub](https://github.com/foodmap-grees)
